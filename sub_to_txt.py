@@ -70,7 +70,7 @@ def main(file_name):
 
 if __name__ == '__main__':
     
-  path = r'X:/Nursing/**/*.vtt'
+  path = r'[Insert Path Here].vtt'
   files = glob.glob(path, recursive=True)
   
   file_name = 
