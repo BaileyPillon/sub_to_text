@@ -79,7 +79,7 @@ if __name__ == '__main__':
 """
 NOTES
  * Run from command line as
- ** python srt_to_txt.py file_name.srt cp1252
+ ** python sub_to_txt.py file_name.srt cp1252
  * Creates file_name.txt with extracted text from file_name.srt 
  * Script assumes that lines beginning with lowercase letters or commas 
  * are part of the previous line and lines beginning with any other character
